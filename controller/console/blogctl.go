@@ -21,11 +21,11 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/charlesmade/blogofgv/controller/service"
-	"github.com/charlesmade/blogofgv/controller/util"
+	"github.com/charlesmade/blogofgv/service"
+	"github.com/charlesmade/blogofgv/util"
 	"github.com/gin-gonic/gin"
 	"github.com/parnurzeal/gorequest"
-	"github.com/charlesmade/blogofgv/controller/model"
+	"github.com/charlesmade/blogofgv/model"
 )
 
 // BlogSwitchAction switches blog.

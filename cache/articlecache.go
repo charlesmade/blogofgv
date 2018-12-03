@@ -20,8 +20,8 @@ package cache
 import (
 	"os"
 
-	"github.com/charlesmade/blogofgv/controller/log"
-	"github.com/charlesmade/blogofgv/controller/model"
+	"github.com/charlesmade/blogofgv/log"
+	"github.com/charlesmade/blogofgv/model"
 	"github.com/bluele/gcache"
 )
 

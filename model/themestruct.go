@@ -19,7 +19,7 @@ package model
 import (
 	"html/template"
 
-	"github.com/charlesmade/blogofgv/controller/util"
+	"github.com/charlesmade/blogofgv/util"
 )
 
 // ThemeArticle represents theme article.

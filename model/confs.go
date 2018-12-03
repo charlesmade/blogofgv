@@ -28,9 +28,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/charlesmade/blogofgv/controller/log"
+	"github.com/charlesmade/blogofgv/log"
 	"github.com/jinzhu/gorm"
-	"github.com/charlesmade/blogofgv/controller/util"
+	"github.com/charlesmade/blogofgv/util"
 )
 
 // Logger

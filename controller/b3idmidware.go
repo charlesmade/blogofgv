@@ -22,9 +22,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/charlesmade/blogofgv/controller/model"
-	"github.com/charlesmade/blogofgv/controller/service"
-	"github.com/charlesmade/blogofgv/controller/util"
+	"github.com/charlesmade/blogofgv/model"
+	"github.com/charlesmade/blogofgv/service"
+	"github.com/charlesmade/blogofgv/util"
 	"github.com/gin-gonic/gin"
 	"github.com/mssola/user_agent"
 	"github.com/parnurzeal/gorequest"

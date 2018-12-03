@@ -19,7 +19,7 @@ package service
 import (
 	"testing"
 
-	"github.com/charlesmade/blogofgv/controller/model"
+	"github.com/charlesmade/blogofgv/model"
 )
 
 func TestGetAllStatistics(t *testing.T) {

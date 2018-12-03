@@ -17,7 +17,7 @@
 package model
 
 import (
-	"github.com/charlesmade/blogofgv/controller/util"
+	"github.com/charlesmade/blogofgv/util"
 )
 
 // User model.

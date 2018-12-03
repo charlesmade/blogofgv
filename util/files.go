@@ -22,7 +22,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/charlesmade/blogofgv/controller/log"
+	"github.com/charlesmade/blogofgv/log"
 )
 
 // Logger

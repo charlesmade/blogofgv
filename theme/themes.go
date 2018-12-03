@@ -21,9 +21,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/charlesmade/blogofgv/controller/log"
-	"github.com/charlesmade/blogofgv/controller/util"
-	"github.com/charlesmade/blogofgv/controller/model"
+	"github.com/charlesmade/blogofgv/log"
+	"github.com/charlesmade/blogofgv/util"
+	"github.com/charlesmade/blogofgv/model"
 )
 
 // Logger

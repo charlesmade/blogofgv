@@ -21,7 +21,7 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"github.com/charlesmade/blogofgv/controller/model"
+	"github.com/charlesmade/blogofgv/model"
 	"github.com/gin-gonic/gin"
 )
 

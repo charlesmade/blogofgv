@@ -19,7 +19,7 @@ package console
 import (
 	"html/template"
 
-	"github.com/charlesmade/blogofgv/controller/util"
+	"github.com/charlesmade/blogofgv/util"
 )
 
 // ConsoleArticle represents console article.

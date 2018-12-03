@@ -20,7 +20,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/charlesmade/blogofgv/controller/model"
+	"github.com/charlesmade/blogofgv/model"
 )
 
 const (

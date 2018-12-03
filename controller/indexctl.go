@@ -21,10 +21,10 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"github.com/charlesmade/blogofgv/controller/service"
-	"github.com/charlesmade/blogofgv/controller/util"
+	"github.com/charlesmade/blogofgv/service"
+	"github.com/charlesmade/blogofgv/util"
 	"github.com/gin-gonic/gin"
-	model "github.com/charlesmade/blogofgv/controller/model"
+	model "github.com/charlesmade/blogofgv/model"
 )
 
 func showIndexAction(c *gin.Context) {

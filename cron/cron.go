@@ -20,7 +20,7 @@ package cron
 import (
 	"os"
 
-	"github.com/charlesmade/blogofgv/controller/log"
+	"github.com/charlesmade/blogofgv/log"
 )
 
 // Logger

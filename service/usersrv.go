@@ -19,9 +19,9 @@ package service
 import (
 	"sync"
 
-	"github.com/charlesmade/blogofgv/controller/cache"
-	"github.com/charlesmade/blogofgv/controller/model"
-	"github.com/charlesmade/blogofgv/controller/util"
+	"github.com/charlesmade/blogofgv/cache"
+	"github.com/charlesmade/blogofgv/model"
+	"github.com/charlesmade/blogofgv/util"
 )
 
 // User service.

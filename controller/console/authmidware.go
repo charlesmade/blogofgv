@@ -19,7 +19,7 @@ package console
 import (
 	"net/http"
 
-	"github.com/charlesmade/blogofgv/controller/util"
+	"github.com/charlesmade/blogofgv/util"
 	"github.com/gin-gonic/gin"
 )
 

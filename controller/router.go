@@ -24,11 +24,11 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/charlesmade/blogofgv/controller/controller/console"
-	"github.com/charlesmade/blogofgv/controller/log"
-	"github.com/charlesmade/blogofgv/controller/model"
-	"github.com/charlesmade/blogofgv/controller/theme"
-	"github.com/charlesmade/blogofgv/controller/util"
+	"github.com/charlesmade/blogofgv/console"
+	"github.com/charlesmade/blogofgv/log"
+	"github.com/charlesmade/blogofgv/model"
+	"github.com/charlesmade/blogofgv/theme"
+	"github.com/charlesmade/blogofgv/util"
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"
 )

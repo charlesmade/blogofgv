@@ -20,7 +20,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/charlesmade/blogofgv/controller/model"
+	"github.com/charlesmade/blogofgv/model"
 	"gopkg.in/yaml.v2"
 )
 

@@ -22,9 +22,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/charlesmade/blogofgv/controller/model"
-	"github.com/charlesmade/blogofgv/controller/theme"
-	"github.com/charlesmade/blogofgv/controller/util"
+	"github.com/charlesmade/blogofgv/model"
+	"github.com/charlesmade/blogofgv/theme"
+	"github.com/charlesmade/blogofgv/util"
 	"github.com/jinzhu/gorm"
 )
 
