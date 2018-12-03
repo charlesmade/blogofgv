@@ -20,7 +20,7 @@ import (
 	"strconv"
 	"sync"
 
-	"gin-vue-blog/model"
+	"github.com/charlesmade/blogofgv/controller/model"
 	"github.com/jinzhu/gorm"
 )
 

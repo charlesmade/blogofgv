@@ -17,7 +17,7 @@
 package controller
 
 import (
-	"gin-vue-blog/service"
+	"github.com/charlesmade/blogofgv/controller/service"
 	"github.com/gin-gonic/gin"
 	"github.com/ikeikeikeike/go-sitemap-generator/stm"
 )

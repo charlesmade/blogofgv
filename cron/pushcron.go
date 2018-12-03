@@ -20,9 +20,9 @@ import (
 	"net/url"
 	"time"
 
-	"gin-vue-blog/model"
-	"gin-vue-blog/service"
-	"gin-vue-blog/util"
+	"github.com/charlesmade/blogofgv/controller/model"
+	"github.com/charlesmade/blogofgv/controller/service"
+	"github.com/charlesmade/blogofgv/controller/util"
 	"github.com/parnurzeal/gorequest"
 	"net/http"
 	"strings"

@@ -22,7 +22,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"gin-vue-blog/log"
+	"github.com/charlesmade/blogofgv/controller/log"
 )
 
 // Logger

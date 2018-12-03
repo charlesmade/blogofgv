@@ -21,7 +21,7 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"gin-vue-blog/model"
+	"github.com/charlesmade/blogofgv/controller/model"
 	"github.com/gin-gonic/gin"
 )
 

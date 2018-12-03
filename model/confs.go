@@ -28,9 +28,9 @@ import (
 	"strings"
 	"time"
 
-	"gin-vue-blog/log"
+	"github.com/charlesmade/blogofgv/controller/log"
 	"github.com/jinzhu/gorm"
-	"gin-vue-blog/util"
+	"github.com/charlesmade/blogofgv/controller/util"
 )
 
 // Logger

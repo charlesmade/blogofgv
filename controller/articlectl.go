@@ -24,10 +24,10 @@ import (
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
-	"gin-vue-blog/cron"
-	"gin-vue-blog/model"
-	"gin-vue-blog/service"
-	"gin-vue-blog/util"
+	"github.com/charlesmade/blogofgv/controller/cron"
+	"github.com/charlesmade/blogofgv/controller/model"
+	"github.com/charlesmade/blogofgv/controller/service"
+	"github.com/charlesmade/blogofgv/controller/util"
 	"github.com/gin-gonic/gin"
 	"github.com/vinta/pangu"
 )

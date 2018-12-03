@@ -21,9 +21,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"gin-vue-blog/log"
-	"gin-vue-blog/util"
-	"gin-vue-blog/model"
+	"github.com/charlesmade/blogofgv/controller/log"
+	"github.com/charlesmade/blogofgv/controller/util"
+	"github.com/charlesmade/blogofgv/controller/model"
 )
 
 // Logger

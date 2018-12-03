@@ -25,10 +25,10 @@ import (
 	"time"
 
 	"github.com/araddon/dateparse"
-	"gin-vue-blog/log"
-	"gin-vue-blog/model"
-	"gin-vue-blog/service"
-	"gin-vue-blog/util"
+	"github.com/charlesmade/blogofgv/controller/log"
+	"github.com/charlesmade/blogofgv/controller/model"
+	"github.com/charlesmade/blogofgv/controller/service"
+	"github.com/charlesmade/blogofgv/controller/util"
 	"github.com/fatih/structs"
 	"github.com/gin-gonic/gin"
 )

@@ -21,11 +21,11 @@ import (
 	"strconv"
 	"time"
 
-	"gin-vue-blog/service"
-	"gin-vue-blog/util"
+	"github.com/charlesmade/blogofgv/controller/service"
+	"github.com/charlesmade/blogofgv/controller/util"
 	"github.com/gin-gonic/gin"
 	"github.com/parnurzeal/gorequest"
-	"gin-vue-blog/model"
+	"github.com/charlesmade/blogofgv/controller/model"
 )
 
 // BlogSwitchAction switches blog.

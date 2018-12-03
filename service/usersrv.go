@@ -19,9 +19,9 @@ package service
 import (
 	"sync"
 
-	"gin-vue-blog/cache"
-	"gin-vue-blog/model"
-	"gin-vue-blog/util"
+	"github.com/charlesmade/blogofgv/controller/cache"
+	"github.com/charlesmade/blogofgv/controller/model"
+	"github.com/charlesmade/blogofgv/controller/util"
 )
 
 // User service.

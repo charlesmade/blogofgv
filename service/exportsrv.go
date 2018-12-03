@@ -20,7 +20,7 @@ import (
 	"regexp"
 	"strings"
 
-	"gin-vue-blog/model"
+	"github.com/charlesmade/blogofgv/controller/model"
 	"gopkg.in/yaml.v2"
 )
 

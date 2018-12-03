@@ -26,8 +26,8 @@ import (
 	"strings"
 	"time"
 
-	"gin-vue-blog/service"
-	"gin-vue-blog/util"
+	"github.com/charlesmade/blogofgv/controller/service"
+	"github.com/charlesmade/blogofgv/controller/util"
 	"github.com/gin-gonic/gin"
 	"github.com/parnurzeal/gorequest"
 	"github.com/qiniu/api.v7/storage"

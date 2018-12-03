@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"sync"
 
-	"gin-vue-blog/model"
-	"gin-vue-blog/util"
+	"github.com/charlesmade/blogofgv/controller/model"
+	"github.com/charlesmade/blogofgv/controller/util"
 )
 
 // Navigation service.

@@ -20,8 +20,8 @@ package cache
 import (
 	"os"
 
-	"gin-vue-blog/log"
-	"gin-vue-blog/model"
+	"github.com/charlesmade/blogofgv/controller/log"
+	"github.com/charlesmade/blogofgv/controller/model"
 	"github.com/bluele/gcache"
 )
 

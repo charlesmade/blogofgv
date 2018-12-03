@@ -19,7 +19,7 @@ package model
 import (
 	"html/template"
 
-	"gin-vue-blog/util"
+	"github.com/charlesmade/blogofgv/controller/util"
 )
 
 // ThemeArticle represents theme article.

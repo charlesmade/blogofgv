@@ -24,11 +24,11 @@ import (
 	"strconv"
 	"strings"
 
-	"gin-vue-blog/controller/console"
-	"gin-vue-blog/log"
-	"gin-vue-blog/model"
-	"gin-vue-blog/theme"
-	"gin-vue-blog/util"
+	"github.com/charlesmade/blogofgv/controller/controller/console"
+	"github.com/charlesmade/blogofgv/controller/log"
+	"github.com/charlesmade/blogofgv/controller/model"
+	"github.com/charlesmade/blogofgv/controller/theme"
+	"github.com/charlesmade/blogofgv/controller/util"
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"
 )

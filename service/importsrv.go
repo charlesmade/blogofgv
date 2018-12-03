@@ -24,8 +24,8 @@ import (
 	"time"
 
 	"github.com/araddon/dateparse"
-	"gin-vue-blog/model"
-	"gin-vue-blog/util"
+	"github.com/charlesmade/blogofgv/controller/model"
+	"github.com/charlesmade/blogofgv/controller/util"
 	"gopkg.in/yaml.v2"
 )
 

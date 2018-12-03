@@ -20,7 +20,7 @@ import (
 	"strconv"
 	"testing"
 
-	"gin-vue-blog/model"
+	"github.com/charlesmade/blogofgv/controller/model"
 )
 
 const (

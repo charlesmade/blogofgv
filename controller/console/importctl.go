@@ -23,8 +23,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"gin-vue-blog/service"
-	"gin-vue-blog/util"
+	"github.com/charlesmade/blogofgv/controller/service"
+	"github.com/charlesmade/blogofgv/controller/util"
 	"github.com/gin-gonic/gin"
 )
 

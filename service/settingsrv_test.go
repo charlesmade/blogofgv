@@ -19,7 +19,7 @@ package service
 import (
 	"testing"
 
-	"gin-vue-blog/model"
+	"github.com/charlesmade/blogofgv/controller/model"
 )
 
 func TestGetSetting(t *testing.T) {

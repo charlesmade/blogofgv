@@ -19,7 +19,7 @@ package console
 import (
 	"html/template"
 
-	"gin-vue-blog/util"
+	"github.com/charlesmade/blogofgv/controller/util"
 )
 
 // ConsoleArticle represents console article.

@@ -17,7 +17,7 @@
 package model
 
 import (
-	"gin-vue-blog/util"
+	"github.com/charlesmade/blogofgv/controller/util"
 )
 
 // User model.

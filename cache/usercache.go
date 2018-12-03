@@ -17,7 +17,7 @@
 package cache
 
 import (
-	"gin-vue-blog/model"
+	"github.com/charlesmade/blogofgv/controller/model"
 	"github.com/bluele/gcache"
 )
 
