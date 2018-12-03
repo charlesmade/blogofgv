@@ -24,7 +24,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/charlesmade/blogofgv/console"
+	"github.com/charlesmade/blogofgv/controller/console"
 	"github.com/charlesmade/blogofgv/log"
 	"github.com/charlesmade/blogofgv/model"
 	"github.com/charlesmade/blogofgv/theme"
