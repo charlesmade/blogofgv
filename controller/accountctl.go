@@ -30,7 +30,6 @@ import (
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"
 	"github.com/qiniu/api.v7/storage"
-	"github.com/satori/go.uuid"
 	"github.com/tredoe/osutil/user/crypt/sha512_crypt"
 )
 

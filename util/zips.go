@@ -25,8 +25,8 @@ import (
 	"path/filepath"
 	"unicode/utf8"
 
-	"golang.org/x/text/encoding/simplifiedchinese"
-	"golang.org/x/text/transform"
+	"github.com/golang/text/encoding/simplifiedchinese"
+	"github.com/golang/text/transform"
 )
 
 type myzip struct{}

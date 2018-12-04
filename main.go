@@ -28,17 +28,17 @@ import (
 	"strings"
 	"syscall"
 	"time"
-	
+
 	"github.com/gin-gonic/gin"
 
 	"github.com/charlesmade/blogofgv/controller"
 	"github.com/charlesmade/blogofgv/cron"
 	"github.com/charlesmade/blogofgv/i18n"
 	"github.com/charlesmade/blogofgv/log"
+	"github.com/charlesmade/blogofgv/model"
 	"github.com/charlesmade/blogofgv/service"
 	"github.com/charlesmade/blogofgv/theme"
 	"github.com/charlesmade/blogofgv/util"
-	"github.com/charlesmade/blogofgv/model"
 )
 
 // Logger
