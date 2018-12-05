@@ -19,6 +19,3 @@ header
 # IDE
 .idea/
 
-# vender dep
-vendor/
-Gopkg.lock
