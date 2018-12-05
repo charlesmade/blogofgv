@@ -30,8 +30,8 @@ import (
 	"github.com/bluele/gcache"
 	"github.com/hackebrot/turtle"
 	"github.com/microcosm-cc/bluemonday"
+	"github.com/russross/blackfriday"
 	"github.com/vinta/pangu"
-	"gopkg.in/russross/blackfriday.v2"
 )
 
 var markdownCache = gcache.New(1024).LRU().Build()
