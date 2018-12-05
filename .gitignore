@@ -4,7 +4,7 @@
 *.so
 *.dylib
 header
-pipe
+
 
 # Test binary, build with `go test -c`
 *.test
@@ -19,3 +19,6 @@ pipe
 # IDE
 .idea/
 
+# vender dep
+vender/
+Gopkg.lock
