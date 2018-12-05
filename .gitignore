@@ -20,5 +20,5 @@ header
 .idea/
 
 # vender dep
-vender/
+vendor/
 Gopkg.lock
