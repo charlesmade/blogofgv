@@ -23,7 +23,7 @@ import (
 )
 
 func outputSitemapAction(c *gin.Context) {
-	sm := stm.NewSitemap(0)
+	sm := stm.NewSitemap()
 	sm.Create()
 
 	blogs := service.User.GetTopBlogs(10)
